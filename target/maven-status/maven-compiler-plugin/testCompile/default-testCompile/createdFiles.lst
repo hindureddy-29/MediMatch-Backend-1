@@ -1,0 +1,3 @@
+com\medimatch\service\nlp\DuplicateClassifierTest.class
+com\medimatch\service\nlp\MedicineNormalizerTest.class
+com\medimatch\service\nlp\StringSimilarityTest.class
